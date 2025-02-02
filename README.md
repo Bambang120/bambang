@@ -24,6 +24,10 @@ Analisis Percobaan :
 •	Kabel Straight digunakan untuk menghubungkan perangkat yang berbeda jenis (misalnya, komputer ke switch atau router). 
 •	Kabel Crossover digunakan untuk menghubungkan perangkat sejenis (misalnya, komputer ke komputer atau switch ke switch). 
 •	Proses crimping dan pengujian menggunakan LAN Tester berhasil dilakukan dengan baik, menunjukkan bahwa urutan kabel dan koneksi sudah benar. 
+<img src="https://github.com/Bambang120/bambang/blob/main/pratikum/straigh.jpg" alt="image"
+width="200">
+<img src="https://github.com/Bambang120/bambang/blob/main/pratikum/crohs.jpg" alt="image"
+width="200">
 
 Kesimpulan Percobaan : 
   •	Praktikum ini berhasil membuat kabel Straight dan Crossover dengan urutan warna yang benar. 
