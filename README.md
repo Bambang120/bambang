@@ -13,7 +13,8 @@ Hasil Percobaan
 2.	Kabel Crossover o 	Urutan warna kabel: 
    ▪	Ujung A: Putih-orange, orange, putih-hijau, biru, putih-biru, hijau, putihcokelat, cokelat. 
   ▪	Ujung B: Putih-hijau, hijau, putih-orange, biru, putih-biru, orange, putihcokelat, cokelat. 
-  o	Proses crimping berhasil dilakukan dengan baik. o 	Pengujian menggunakan LAN Tester menunjukkan semua lampu menyala (1-8), menandakan kabel berfungsi dengan baik. 
+  o	Proses crimping berhasil dilakukan dengan baik. o 	Pengujian menggunakan LAN Tester menunjukkan semua lampu menyala (1-8), menandakan kabel berfungsi dengan baik.
+
 -Crimping Kabel
 <img src="https://github.com/Bambang120/bambang/blob/main/pratikum/tang.jpg" alt="image"
 width="200">
