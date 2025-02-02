@@ -15,6 +15,8 @@ Hasil Percobaan
   ▪	Ujung B: Putih-hijau, hijau, putih-orange, biru, putih-biru, orange, putihcokelat, cokelat. 
   o	Proses crimping berhasil dilakukan dengan baik. o 	Pengujian menggunakan LAN Tester menunjukkan semua lampu menyala (1-8), menandakan kabel berfungsi dengan baik. 
 
+![kabel.jpg](https://github.com/Bambang120/bambang/blob/main/pratikum/kabel.jpg)
+
 Analisis Percobaan : 
 •	Kabel Straight digunakan untuk menghubungkan perangkat yang berbeda jenis (misalnya, komputer ke switch atau router). 
 •	Kabel Crossover digunakan untuk menghubungkan perangkat sejenis (misalnya, komputer ke komputer atau switch ke switch). 
