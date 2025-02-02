@@ -17,6 +17,9 @@ Hasil Percobaan
 <img src="https://github.com/Bambang120/bambang/blob/main/pratikum/kabel.jpg" alt="image"
 width="200">
 
+<img src="https://github.com/Bambang120/bambang/blob/main/pratikum/tang.jpg" alt="image"
+width="200">
+
 Analisis Percobaan : 
 •	Kabel Straight digunakan untuk menghubungkan perangkat yang berbeda jenis (misalnya, komputer ke switch atau router). 
 •	Kabel Crossover digunakan untuk menghubungkan perangkat sejenis (misalnya, komputer ke komputer atau switch ke switch). 
