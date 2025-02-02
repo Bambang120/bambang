@@ -32,7 +32,8 @@ Analisis Percobaan :
 -Pengujian/Tester Kabel straigh
 <img src="https://github.com/Bambang120/bambang/blob/main/pratikum/straigh.jpg" alt="image"
 width="200">
--
+
+
 -Pengujian/Tester Kabel Crosh
 <img src="https://github.com/Bambang120/bambang/blob/main/pratikum/crohs.jpg" alt="image"
 width="200">
