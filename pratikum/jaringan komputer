@@ -1,4 +1,4 @@
- LAPORAN HASIL PRAKTIKUM 
+LAPORAN HASIL PRAKTIKUM 
 
 
 Nama             :  M.Bambang Taufik Pratama
@@ -14,6 +14,8 @@ Hasil Percobaan
    ▪	Ujung A: Putih-orange, orange, putih-hijau, biru, putih-biru, hijau, putihcokelat, cokelat. 
   ▪	Ujung B: Putih-hijau, hijau, putih-orange, biru, putih-biru, orange, putihcokelat, cokelat. 
   o	Proses crimping berhasil dilakukan dengan baik. o 	Pengujian menggunakan LAN Tester menunjukkan semua lampu menyala (1-8), menandakan kabel berfungsi dengan baik. 
+
+![alt text](https://github.com/Bambang120/bambang/blob/main/pratikum/kabel.jpg?raw=true)
 
 Analisis Percobaan : 
 •	Kabel Straight digunakan untuk menghubungkan perangkat yang berbeda jenis (misalnya, komputer ke switch atau router). 
