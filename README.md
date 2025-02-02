@@ -2,8 +2,11 @@ LAPORAN HASIL PRAKTIKUM
 
 
 Nama             :  M.Bambang Taufik Pratama
+
 Nim              :  09030182327073
+
 Program Studi    :  Teknik Komputer 
+
 Judul Percobaan  : Pengkabelan / Cabling 
 
  
